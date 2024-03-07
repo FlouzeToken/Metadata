@@ -2,12 +2,12 @@
     "name": "Flouze", 
     "symbol": "FLZ", 
     "description": "Flouze token is the meme among memes: No Dog, no Shark, no Frog, no AI, just people",
-    "image": "https://raw.githubusercontent.com/tm01013/token-image/main/token-image.png", 
+    "image": "https://raw.githubusercontent.com/FlouzeToken/Metadata/main/flz.png", 
     "attributes": [],
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/tm01013/token-image/main/token-image.png", 
+                "uri": "https://raw.githubusercontent.com/FlouzeToken/Metadata/main/flz.png", 
             }
         ]
     }
