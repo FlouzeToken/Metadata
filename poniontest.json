@@ -1,9 +1,0 @@
-{
-	"name": "Ponion",
-   	"symbol": "PONT",
-	"uri": "https://raw.githubusercontent.com/FlouzeToken/Meta/main/poniontest.json",
-	"image": "https://raw.githubusercontent.com/FlouzeToken/Meta/main/logo.png",
-   	"description": "This is a ponion token test version 2 on devnet",
-	"seller_fee_basis_points": 0
-}
-
